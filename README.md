@@ -1,2 +1,0 @@
-# wlt
-Liferay_Project
